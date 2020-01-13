@@ -7,6 +7,7 @@ class App extends React.Component {
 			<View style={styles.container}>
 				<Text style={styles.bigword}>ネイティブアプリ開発</Text>
 				<Text style={styles.bigword}>開発者：佐竹祐亮</Text>
+				<Text style={styles.bigword}>開発者：佐竹祐亮</Text>
 			</View>
 		);
 	}
