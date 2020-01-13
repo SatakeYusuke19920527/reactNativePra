@@ -1,3 +1,4 @@
+# SY_company
 # reactNativePra
 これからアプリ作成の練習をしていく。
 勉強のためにGitも活用していく。
