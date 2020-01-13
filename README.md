@@ -1,4 +1,5 @@
 # SY_company
+# MultipleChance
 # reactNativePra
 これからアプリ作成の練習をしていく。
 勉強のためにGitも活用していく。
