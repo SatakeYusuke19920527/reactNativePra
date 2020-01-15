@@ -1,14 +1,16 @@
-# SY_company
+# SXI_Venture
 # MultipleChance
 # reactNativePra
-これからアプリ作成の練習をしていく。
-勉強のためにGitも活用していく。
 
-ブランチ名
-Topic-0001
+# 参考ページ
+●react-navigation
+https://joe41203.hatenablog.com/entry/2019/02/06/131109
 
-リモート上の同じブランチ名にpush
+●FontAwesome
+https://qiita.com/yasu_yyy/items/8ab627716314bdfdcb59
 
-Git上でプルリクエストを作成し、marge
-
-react-navigation を追加
+# 各種インストール
+●画面遷移
+yarn add react-navigation-tabs
+●アイコン追加
+yarn add  react-native-vector-icons
