@@ -19,25 +19,23 @@ const TabNavigator = createAppContainer(
         screen: Page1,
         navigationOptions: () => ({
           tabBarIcon: ({ tintColor }) => (
-            <Icon name='bookmark' color={tintColor} size={24} />
+            <Icon name='user' color={tintColor} size={24} />
           )
         })
       },
       Profile: {
         screen: Page2,
-        // 追加
         navigationOptions: () => ({
           tabBarIcon: ({ tintColor }) => (
-            <Icon name='heart' color={tintColor} size={24} />
+            <Icon name='thumbs-o-up' color={tintColor} size={24} />
           )
         })
       },
       Message: {
         screen: Page3,
-        // 追加
         navigationOptions: () => ({
           tabBarIcon: ({ tintColor }) => (
-            <Icon name='lock' color={tintColor} size={24} />
+            <Icon name='send-o' color={tintColor} size={24} />
           )
         })
       },

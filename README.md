@@ -12,5 +12,6 @@ https://qiita.com/yasu_yyy/items/8ab627716314bdfdcb59
 # 各種インストール
 ●画面遷移
 yarn add react-navigation-tabs
+
 ●アイコン追加
 yarn add  react-native-vector-icons
