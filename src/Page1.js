@@ -1,7 +1,17 @@
 import React from 'react';
-import { StyleSheet, View, Image, Text } from 'react-native';
+import { StyleSheet, View, Text, FlatList } from 'react-native';
 
 export default class Page1 extends React.Component {
+
+	constructor(props) {
+		super(props)
+		this.state = {
+			dataSource: [],
+			text:'',
+		}
+		
+	}
+
 	render() {
 		return (
 			<View style={styles.container}>
@@ -19,7 +29,7 @@ const styles = StyleSheet.create({
 		backgroundColor: '#000022'
 	},
 	white: {
-		fontSize: 50,
+		fontSize: 20,
 		color: 'white'
 	},
 });
