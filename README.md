@@ -10,3 +10,5 @@ Topic-0001
 リモート上の同じブランチ名にpush
 
 Git上でプルリクエストを作成し、marge
+
+react-navigation を追加
