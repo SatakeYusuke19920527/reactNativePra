@@ -1,5 +1,4 @@
 import React from 'react';
-import { StyleSheet, View } from 'react-native';
 import Icon from '@expo/vector-icons/FontAwesome'
 import { createAppContainer } from 'react-navigation';
 import { createBottomTabNavigator } from 'react-navigation-tabs';
@@ -8,7 +7,7 @@ import Page2 from './Page2';
 import Page3 from './Page3';
 
 const BottomTabNavigatorConfig = {
-  initialRouteName: 'Profile',
+  initialRouteName: 'Home',
   tabBarOptions: { showLabel: false }
 };
 
